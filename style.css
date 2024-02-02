@@ -82,7 +82,7 @@ form button {
     cursor: pointer;
 }
 
-@media (max-width: 460px) {
+@media (max-width: 400px) {
     .container {
         width: 30vh;
         padding: 1.5rem;
